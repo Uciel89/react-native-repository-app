@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "d45d8976-71d2-49a9-a7fb-60fb0a2164b1"
+      }
+    },
+    "owner": "uciel_daro"
   }
 }
